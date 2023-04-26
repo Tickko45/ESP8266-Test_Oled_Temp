@@ -1,0 +1,10 @@
+OLED -> Esp8266
+VCC -> 3V
+GND -> GND
+SCL -> D1
+SDA -> D2
+
+DHT11 -> Esp8266
++ > 3v
+out > D3
+-  > GND
